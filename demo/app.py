@@ -33,7 +33,7 @@ IMG_SIZE = 128
 
 # Hugging Face model repo holding the large .keras weights.
 # Replace with your own repo id if you fork this project.
-MODEL_REPO = os.environ.get("MODEL_REPO", "chaitanyagupta/lfw-face-recognition-models")
+MODEL_REPO = os.environ.get("MODEL_REPO", "chaitanya2540/lfw-face-recognition-models")
 
 
 def resolve_weight(filename: str) -> str:
