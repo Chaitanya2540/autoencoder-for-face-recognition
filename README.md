@@ -5,7 +5,7 @@
 
 Investigating whether **deep autoencoders** can serve as lightweight, parameter-efficient alternatives to conventional CNN classifiers for face recognition — and, crucially, whether they can enrol *new identities without retraining*.
 
-**[▶ Try the live demo](https://huggingface.co/spaces/chaitanyagupta/autoencoder-for-face-recognition)** · **[📄 Read the full report (PDF)](report/ChaitanyaGupta_Final_Report_FYP.pdf)**
+**[▶ Try the live demo](https://huggingface.co/spaces/chaitanya2540/autoencoder-for-face-recognition)** · **[📄 Read the full report (PDF)](report/ChaitanyaGupta_Final_Report_FYP.pdf)**
 
 ---
 
